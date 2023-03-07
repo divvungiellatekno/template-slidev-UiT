@@ -85,10 +85,6 @@ Example of image with attribution:
 
 ::right::
 
-<br/>
-<br/>
-<br/>
-
 Bilete av <a href="//commons.wikimedia.org/wiki/User:Berig" title="User:Berig">Berig</a>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2287417">lenke til original</a>
 
 Runesteinskatalogisering, med tekst, transkripsjon og omsetjing (på steinen: nedanfrå og opp på venstre side fyrst, deretter på høgre side:
@@ -106,6 +102,11 @@ Runesteinskatalogisering, med tekst, transkripsjon og omsetjing (på steinen: ne
 > <br/>
 >
 > «Dan och Húskarl och Sveinn och Holmfríð, modern och (hennes) söner, uppförde denna sten till minne av Halfdan, fadern till Dan och hans bröder; och Holmfríð till minne av sin man»
+
+Eller som Ruby-tekst:
+<ruby>ᛏᛅᚾ<rt><ruby>tan<rt>Dan</rt></ruby></rt></ruby> 
+<ruby>ᛅᚢᚴ<rt><ruby>auk<rt>och</rt></ruby></rt></ruby> 
+<ruby>ᚼᚢᛋ(ᚴ)ᛅᚱᛚ<rt><ruby>hus(k)arl<rt>Húskarl</rt></ruby></rt></ruby>
 
 ---
 
