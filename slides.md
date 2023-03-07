@@ -103,7 +103,7 @@ Runesteinskatalogisering, med tekst, transkripsjon og omsetjing (på steinen: ne
 >
 > «Dan och Húskarl och Sveinn och Holmfríð, modern och (hennes) söner, uppförde denna sten till minne av Halfdan, fadern till Dan och hans bröder; och Holmfríð till minne av sin man»
 
-Eller som Ruby-tekst:
+Transkripsjon som Ruby-tekst:
 <ruby>ᛏᛅᚾ<rt><ruby>tan<rt>Dan</rt></ruby></rt></ruby> 
 <ruby>ᛅᚢᚴ<rt><ruby>auk<rt>och</rt></ruby></rt></ruby> 
 <ruby>ᚼᚢᛋ(ᚴ)ᛅᚱᛚ<rt><ruby>hus(k)arl<rt>Húskarl</rt></ruby></rt></ruby>
