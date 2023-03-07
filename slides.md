@@ -79,6 +79,7 @@ layout: two-cols
 ### Example of long-lasting language technology
 
 <br/>
+Example of image with attribution:
 
 <img src="/U_240_Lingsberg.jpg" class="h-100 rounded shadow" />
 
@@ -88,9 +89,19 @@ layout: two-cols
 <br/>
 <br/>
 
-Av <a href="//commons.wikimedia.org/wiki/User:Berig" title="User:Berig">Berig</a>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2287417">lenke til original</a>
+Bilete av <a href="//commons.wikimedia.org/wiki/User:Berig" title="User:Berig">Berig</a>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2287417">lenke til original</a>
 
-> Lingsbergsteinen i Sverige, katalogisert som «U 240», ca 1040
+Runesteinskatalogisering, med tekst, transkripsjon og omsetjing (på steinen: nedanfrå og opp på venstre side fyrst, deretter på høgre side:
+
+> [Lingsbergsteinen](http://www.christerhamp.se/runor/gamla/u1/u240.html) i Sverige, katalogisert som «U 240», ca 1040
+>
+> <br/>
+>
+> ᛏᛅᚾ ᛅᚢᚴ ᚼᚢᛋ(ᚴ)ᛅᚱᛚ ᛭ ᛅᚢᚴ ᛋᚢᛁᛅᚾ ᛭ ᛅᚢᚴ ᚼᚢᛚᛘᚠᚱᛁᚦᚱ ᛭ ᚦᛅᚢᚾ ᛘᛁᚦᚴᛁᚾ ᛚᛁᛏᚢ ᚱᛁᛏᛅ ᛋᛏᛁᚿ ᚦᛁᚿᚭ ᛭ ᛆᚠᛏᛁᛦ ᚼᛅᛚᚠᛏᛆᚿ ᛭ ᚠᛆᚦᚢᚱ ᚦᛆᛁᛦᛆ ᛐᛆᚿᛋ ᛅᚢᚴ ᚼᚢᛘᚠᚱᛁᚦᚱ ᛅᛏ ᛒᚢᛆᚿᛏᛆ ᛋᛁᚿ
+>
+> <br/>
+>
+> «tan auk hus(k)arl + auk suain + auk hulmfriþr × þaun (m)(i)(þ)kin litu rita stin þino × aftiR halftan + fa(þ)ur þaiRa tans ' auk hum(f)riþr at buanta sin»
 >
 > <br/>
 >
