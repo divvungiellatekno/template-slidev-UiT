@@ -44,6 +44,21 @@ layout: section
 
 ---
 
+## Demo presentation
+
+<br/>
+<br/>
+
+<v-clicks>
+
+* To show off
+* … what's possible
+* … using Markdown and a bit of CSS, JS, etc
+
+</v-clicks>
+
+---
+
 ## About me
 
 <br/>
@@ -174,11 +189,10 @@ LEXICON nen-adj-inflection
 <br/>
 <br/>
 <br/>
-<br/>
 
 <div v-after>
 
-The same as a state diagram:
+The same as a state diagram (diagram generated from text description using [Mermaid](https://mermaid.js.org)):
 
 ```mermaid
 stateDiagram-v2
