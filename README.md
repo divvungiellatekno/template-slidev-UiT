@@ -19,4 +19,4 @@ This template is preconfigured to be hosted on GitHub Pages. Just remember to ch
         run: slidev build --base template-slidev-UiT
 ```
 
-Thus, `template-slidev-UiT` should be changed to your rep name.
+Thus, `template-slidev-UiT` should be changed to your repository name.
