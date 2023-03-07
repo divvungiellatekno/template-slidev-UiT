@@ -20,3 +20,5 @@ This template is preconfigured to be hosted on GitHub Pages. Just remember to ch
 ```
 
 Thus, `template-slidev-UiT` should be changed to your repository name.
+
+Use the documentation link to see running demo presentation.
